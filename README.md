@@ -42,11 +42,4 @@ Skills:  Reactjs / Nextjs / Nodejs / MongoDB / Php / Mysql / Firebase / JS / HTM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-11&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/abrar-11/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-11&show_icons=true)  
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrar-11)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abrar-11)  
-
-![Profile views](https://gpvc.arturio.dev/abrar-11)  

@@ -12,14 +12,14 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: abrarahmed.dev@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/abrar-11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abrar-ahmed-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](abrarahmed.dev@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abrar-11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abrar-ahmed-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](abrarahmed.dev@gmail.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/abrar-11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-11)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/abrar-11&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-11&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=github.com/abrar-11)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrar-11)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=github.com/abrar-11)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abrar-11)  
 
-![Profile views](https://gpvc.arturio.dev/github.com/abrar-11)  
+![Profile views](https://gpvc.arturio.dev/abrar-11)  

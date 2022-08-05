@@ -4,7 +4,7 @@
 
 I am Self-motivated Web Developer. Passionate about building user-friendly dynamic ,responsive web applications to increase customer sales.Equipped with knowledge in JavaScript, Reactjs, Nextjs, Firebase, Mern Stack and other programming languages
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  Reactjs / Nextjs / Nodejs / MongoDB / Php / Mysql / Firebase / JS / HTML / CSS /
 
 - 🔭 I’m currently working on 100 Days Coding Challenge 
 - 🌱 I’m currently learning Backend Development 

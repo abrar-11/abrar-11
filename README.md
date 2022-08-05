@@ -40,7 +40,8 @@ Skills:  Reactjs / Nextjs / Nodejs / MongoDB / Php / Mysql / Firebase / JS / HTM
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/abrar-11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/www.linkedin.com/in/abrar-ahmed-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](abrarahmed.dev@gmail.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-11&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/abrar-11/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-11&show_icons=true)  
 
